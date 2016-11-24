@@ -3,3 +3,5 @@
 # Author:  HxLiang
 # Purpose: F3 logfile defines
 # Created: 8/2/2009
+
+import re
